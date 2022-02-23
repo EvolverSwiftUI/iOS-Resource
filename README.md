@@ -8,6 +8,7 @@ Useful Links about iOS App Development
 4. https://designer.mocky.io/
 5. https://medium.com/@anuj.rai2489/ssl-pinning-254fa8ca2109
 6. https://www.perfect.org/
+7. Free API Link: https://www.thecocktaildb.com/
 
 # CODE REVIEW PRINCIPLES
 1. DRY = Don't Repeat Yourself
