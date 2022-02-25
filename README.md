@@ -9,6 +9,9 @@ Useful Links about iOS App Development
 5. https://medium.com/@anuj.rai2489/ssl-pinning-254fa8ca2109
 6. https://www.perfect.org/
 7. Free API Link: https://www.thecocktaildb.com/
+8. To draw for explain : https://excalidraw.com/
+9. Learn any programming language for free, with actually challenges: https://exercism.org/
+10. 
 
 # CODE REVIEW PRINCIPLES
 1. DRY = Don't Repeat Yourself
