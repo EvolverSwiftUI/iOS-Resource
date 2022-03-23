@@ -11,7 +11,7 @@ Useful Links about iOS App Development
 7. Free API Link: https://www.thecocktaildb.com/
 8. To draw for explain : https://excalidraw.com/
 9. Learn any programming language for free, with actually challenges: https://exercism.org/
-10. 
+10. https://www.youtube.com/watch?v=l-VsBPQWCxk ===> SOLID principles
 
 # CODE REVIEW PRINCIPLES
 1. DRY = Don't Repeat Yourself
