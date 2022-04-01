@@ -13,6 +13,7 @@ Useful Links about iOS App Development
 9. Learn any programming language for free, with actually challenges: https://exercism.org/
 10. https://www.youtube.com/watch?v=l-VsBPQWCxk ===> SOLID principles
 11. https://iosproofs.blogspot.com/ ====> iOS Interview Questions
+12. https://www.essentialdeveloper.com/ =====> Essential iOS Developer needed details
 
 # CODE REVIEW PRINCIPLES
 1. DRY = Don't Repeat Yourself
