@@ -42,39 +42,39 @@ You'll learn how to become a complete senior developer following principles and 
 
 <ol>
 <li>Version control with git</li>
-Memory Management
-Object-Oriented Programming
-Functional Programming
-Clean Architecture
-Modular Design
-Design Principles and Patterns
-Single Responsibility Principle (SRP)
-Open-Closed Principle (OCP)
-Liskov Substitution Principle (LSP)
-Interface Segregation Principle (ISP)
-Dependency Inversion Principle (DIP)
-Command-Query Separation
-Dependency Injection
-Composite Reuse (Prefer composition over inheritance)
-Functional Core, Imperative Shell
-Don’t Repeat Yourself (DRY)
-You Aren't Gonna Need It (YAGNI)
-Use Case analysis
-Domain Modeling
-Domain-Driven Design (DDD)
-Automated Tests
-Test-Driven Development (TDD)
-Refactoring
-Unit Testing
-Integration Testing
-Snapshot Testing
-UI Testing
-Acceptance Testing
-End-to-end Testing
-Pair programming
-Concurrency and Threading
-Continuous Integration, Delivery, and Deployment
-You learn by developing a real-world iOS app from scratch all the way to the App Store.
+<li>Memory Management</li>
+<li>Object-Oriented Programming</li>
+<li>Functional Programming</li>
+<li>Clean Architecture</li>
+<li>Modular Design</li>
+<li>Design Principles and Patterns</li>
+<li>Single Responsibility Principle (SRP)</li>
+<li>Open-Closed Principle (OCP)</li>
+<li>Liskov Substitution Principle (LSP)</li>
+<li>Interface Segregation Principle (ISP)</li>
+<li>Dependency Inversion Principle (DIP)</li>
+<li>Command-Query Separation</li>
+<li>Dependency Injection</li>
+<li>Composite Reuse (Prefer composition over inheritance)</li>
+<li>Functional Core, Imperative Shell</li>
+<li>Don’t Repeat Yourself (DRY)</li>
+<li>You Aren't Gonna Need It (YAGNI)</li>
+<li>Use Case analysis</li>
+<li>Domain Modeling</li>
+<li>Domain-Driven Design (DDD)</li>
+<li>Automated Tests</li>
+<li>Test-Driven Development (TDD)</li>
+<li>Refactoring</li>
+<li>Unit Testing</li>
+<li>Integration Testing</li>
+<li>Snapshot Testing</li>
+<li>UI Testing</li>
+<li>Acceptance Testing</li>
+<li>End-to-end Testing</li>
+<li>Pair programming</li>
+<li>Concurrency and Threading</li>
+<li>Continuous Integration, Delivery, and Deployment</li>
+<li>You learn by developing a real-world iOS app from scratch all the way to the App Store.</li>
 <ol>  
 
 The first time you're going through the program, you'll learn and practice by implementing the features as seen in the lecture.
