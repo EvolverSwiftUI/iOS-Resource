@@ -40,7 +40,8 @@ Extras: Throughout the program, you'll find a lot of supplementary material. The
 
 You'll learn how to become a complete senior developer following principles and practices such as:
 
-Version control with git
+<ol>
+<li>Version control with git</li>
 Memory Management
 Object-Oriented Programming
 Functional Programming
@@ -74,6 +75,7 @@ Pair programming
 Concurrency and Threading
 Continuous Integration, Delivery, and Deployment
 You learn by developing a real-world iOS app from scratch all the way to the App Store.
+<ol>  
 
 The first time you're going through the program, you'll learn and practice by implementing the features as seen in the lecture.
 
