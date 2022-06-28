@@ -17,6 +17,7 @@ Useful Links about iOS App Development
 13. free public apis ===> https://gorest.co.in/
 14. https://picsum.photos/ ===> get urls for images for free usage
 15. https://draw.io ====> use for draw some workflows
+16. https://mackuba.eu/swiftui/changelog?utm_campaign=%20SwiftUI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter<br>
 
 # CODE REVIEW PRINCIPLES
 1. DRY = Don't Repeat Yourself
